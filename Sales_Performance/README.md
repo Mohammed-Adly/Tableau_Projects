@@ -19,7 +19,6 @@
 
 ### 2. Data
 
-The analysis was performed on the **Sample - Superstore** dataset, a well-known public dataset often used for business intelligence projects. The dataset contains transactional data for a fictional retail chain. The key fields used in this analysis include:
 - `Order Date`: The date the order was placed.
 - `Category` & `Sub-Category`: Product classification.
 - `Region`, `State`, `City`: Geographic location data.
@@ -66,4 +65,5 @@ Based on the findings, the following strategic actions are recommended:
 1.  **Conduct an Urgent Review of 'Tables':** An immediate deep-dive analysis is required to understand the root cause of unprofitability for the 'Tables' subcategory. The company should evaluate costs, pricing strategy, and supplier contracts, and consider discontinuing the product line if profitability cannot be achieved.
 2.  **Maximize Profit from 'Copiers':** Develop targeted marketing and sales campaigns to boost the sales of 'Copiers' and other high-margin products to maximize overall company profit.
 3.  **Investigate Weekly Profit Dips:** Analyze the specific weeks that show significant profit losses to identify causes. Are these dips linked to specific promotions, high return rates, or operational inefficiencies?
+
 4.  **Capitalize on Top Sellers:** Leverage the popularity of 'Chairs' and 'Phones' through cross-selling and up-selling strategies to further increase revenue from these reliable categories.
